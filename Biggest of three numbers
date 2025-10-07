@@ -1,0 +1,9 @@
+a=float(input("enter value a:"))
+b=float(input("enter value b:"))
+c=float(input("enter value c:"))
+if(a>b&&a>c):
+  printf("a is big")
+elif(b>c&&b>a):
+  print("b is big")
+else:
+  print("c is big")
