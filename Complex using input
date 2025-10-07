@@ -1,0 +1,6 @@
+a=complex(input("enter a:"))
+b=complex(input("enter b:"))
+sum=a+b
+product=a*b
+print("sum of complex numbers:",sum)
+print("product of complex numbers:",product)
